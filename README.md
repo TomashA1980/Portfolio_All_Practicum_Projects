@@ -10,3 +10,4 @@ All_Practicum_Projects
 | [Машинное обучение для текстов](ML_for_texts) | Определение токсичности комментарии | *Pandas* , *Python*, *nltk*, *tf-idf*, *LGBMClassifier* |
 | [Временные ряды: такси](time_series) | Разработка системы предсказания объема заказа | *Pandas*, *Python*, *Scikit-learn*, *statsmodels* |
 | [Оценка стоимости автомобиля](car_price)| Разработка системы рекомендации стоимости автомобиля на основе его описания | *Pandas*, *Python*, *lightgbm* |
+| [Линейная алгебра: защита данных](lin_algebra) | Разработка модели анонимизации персональных данных | *NumPy*, *Python*, *Scikit-learn* |
