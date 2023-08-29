@@ -8,3 +8,4 @@ All_Practicum_Projects
 | [Металлургический комбинат](metall_plant) | Прогноз температуры стали во время плавки | *Matplotlib*, *Pandas*, *Scikit-learn*, *XGBoost*, *исследовательский анализ данных* , *регрессия* |
 | [Компьютерное зрение](computer_vision) | Определение возраста по фотографии | *Keras*, *Python* |
 | [Машинное обучение для текстов](ML_for_texts) | Определение токсичности комментарии | *Pandas* , *Python*, *nltk*, *tf-idf*, *LGBMClassifier* |
+| [Временные ряды: такси](time_series) | Разработка системы предсказания объема заказа | *Pandas*, *Python*, *Scikit-learn*, *statsmodels* |
