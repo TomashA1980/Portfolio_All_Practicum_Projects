@@ -1,6 +1,6 @@
 # Линейная алгебра: защита персональных данных
 
-[html](https://github.com/TomashA1980/Portfolio_All_Practicum_Projects/blob/main/lin_algebra/car_price.html)    [ipynb](https://github.com/TomashA1980/Portfolio_All_Practicum_Projects/blob/main/lin_algebra/car_price.ipynb)
+[html](https://github.com/TomashA1980/Portfolio_All_Practicum_Projects/blob/main/lin_algebra/lin_algebra_data_defence.html)    [ipynb](https://github.com/TomashA1980/Portfolio_All_Practicum_Projects/blob/main/lin_algebra/lin_algebra_data_defence.ipynb)
 
 ## Описание проекта
 
