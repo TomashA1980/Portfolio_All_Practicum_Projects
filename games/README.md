@@ -1,6 +1,6 @@
 # Изучение закономерностей, определяющих успешность игр
 
-[html](https://github.com/TomashA1980/Portfolio_All_Practicum_Projects/blob/main/metall_plant/metall_plant.html)  [ipynb](https://github.com/TomashA1980/Portfolio_All_Practicum_Projects/blob/main/metall_plant/metall_plant.ipynb)
+[html](https://github.com/TomashA1980/Portfolio_All_Practicum_Projects/blob/main/games/games.html)  [ipynb](https://github.com/TomashA1980/Portfolio_All_Practicum_Projects/blob/main/games/games.ipynb)
 
 ## Описание проекта
 
