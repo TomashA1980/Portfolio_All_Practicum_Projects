@@ -1,6 +1,6 @@
 # Прогнозирование оттока клиента Банка
 
-[html](https://github.com/TomashA1980/Portfolio_All_Practicum_Projects/blob/main/metall_plant/metall_plant.html)   [ipynb](https://github.com/TomashA1980/Portfolio_All_Practicum_Projects/blob/main/metall_plant/metall_plant.ipynb)
+[html](https://github.com/TomashA1980/Portfolio_All_Practicum_Projects/blob/main/bank_clients/bank_clients.html)   [ipynb](https://github.com/TomashA1980/Portfolio_All_Practicum_Projects/blob/main/bank_clients/bank_clients.ipynb)
 
 ## Описание проекта
 
