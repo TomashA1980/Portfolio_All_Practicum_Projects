@@ -1,6 +1,6 @@
 # Классификаиция клиентов телеком компании
 
-[html](https://github.com/TomashA1980/Portfolio_All_Practicum_Projects/blob/main/metall_plant/metall_plant.html)  [ipynb](https://github.com/TomashA1980/Portfolio_All_Practicum_Projects/blob/main/metall_plant/metall_plant.ipynb)
+[html](https://github.com/TomashA1980/Portfolio_All_Practicum_Projects/blob/main/mobile_tariff/mobile_tariff.html)  [ipynb](https://github.com/TomashA1980/Portfolio_All_Practicum_Projects/blob/main/mobile_tariff/mobile_tariff.ipynb)
 
 ## Описание проекта
 
